@@ -1,3 +1,5 @@
 /*
 /*/
+!.gitignore
 !/themes/lamweb/
+!/themes/lamweb/**/*
