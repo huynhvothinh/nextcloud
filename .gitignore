@@ -3,3 +3,4 @@
 !.gitignore
 !/themes/lamweb/
 !/themes/lamweb/**/*
+!/core/l10n/*
