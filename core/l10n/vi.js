@@ -288,6 +288,7 @@ OC.L10N.register(
     "This page will refresh itself when the %s instance is available again." : "Trang này sẽ tự động được làm tươi khi bản cài đặt %s được sẵn sàng.",
     "Contact your system administrator if this message persists or appeared unexpectedly." : "Liên hệ với người quản trị nếu lỗi này vẫn tồn tại hoặc xuất hiện bất ngờ.",
     "Thank you for your patience." : "Cảm ơn sự kiên nhẫn của bạn.",
-    "Forgot password?" : "Quên mật khẩu?"
+    "Forgot password?" : "Quên mật khẩu?",
+    "Log out" : "Đăng xuất"
 },
 "nplurals=1; plural=0;");
