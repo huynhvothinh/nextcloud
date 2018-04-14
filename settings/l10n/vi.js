@@ -49,5 +49,6 @@ OC.L10N.register(
     "Default" : "Mặc định",
     "Create" : "Tạo"
     "Forgot password?" : "Quên mật khẩu?"
+    "Settings" : "Cài đặt"
 },
 "nplurals=1; plural=0;");
