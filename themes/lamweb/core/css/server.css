@@ -15,7 +15,14 @@
  * You should have received a copy of the GNU Affero General Public License, version 3,
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
+ @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
+ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, 
+ abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, 
+ form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, 
+ dialog, figure, footer, header, hgroup, nav, section{
+	font-family: 'Roboto Slab', serif;
+ }
 
 /* header color */
 /* this is the main brand color */
