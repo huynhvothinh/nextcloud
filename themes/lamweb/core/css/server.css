@@ -37,6 +37,9 @@
 	background: -ms-linear-gradient(top, #947bea 0%,#745bca 100%); /* IE10+ */
 	background: linear-gradient(top, #947bea 0%,#745bca 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#947bea', endColorstr='#745bca',GradientType=0 ); /* IE6-9 */
+	background-image: url('images/ui-bg-login.jpg');
+	background-repeat: repeat;
+	background-size: 100% auto;
 }
 
 /* primary action button, use sparingly */
