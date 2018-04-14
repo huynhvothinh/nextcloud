@@ -48,5 +48,6 @@ OC.L10N.register(
     "set new password" : "đặt mật khẩu mới",
     "Default" : "Mặc định",
     "Create" : "Tạo"
+    "Forgot password?" : "Quên mật khẩu?"
 },
 "nplurals=1; plural=0;");
