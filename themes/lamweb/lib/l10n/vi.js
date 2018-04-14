@@ -20,6 +20,7 @@ OC.L10N.register(
     "Could not find category \"%s\"" : "không thể tìm thấy mục \"%s\"",
     "Application is not enabled" : "Ứng dụng không được BẬT",
     "Authentication error" : "Lỗi xác thực",
-    "Token expired. Please reload page." : "Mã Token đã hết hạn. Hãy tải lại trang."
+    "Token expired. Please reload page." : "Mã Token đã hết hạn. Hãy tải lại trang.",
+    "Additional settings" : "Cài đặt bổ sung"
 },
 "nplurals=1; plural=0;");
