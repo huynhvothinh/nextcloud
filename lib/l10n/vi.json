@@ -18,6 +18,8 @@
     "Could not find category \"%s\"" : "không thể tìm thấy mục \"%s\"",
     "Application is not enabled" : "Ứng dụng không được BẬT",
     "Authentication error" : "Lỗi xác thực",
-    "Token expired. Please reload page." : "Mã Token đã hết hạn. Hãy tải lại trang."
+    "Token expired. Please reload page." : "Mã Token đã hết hạn. Hãy tải lại trang.",
+    "Settings" : "Cài đặt",
+    "Basic settings" : "Cài đặt cơ bản",
 },"pluralForm" :"nplurals=1; plural=0;"
 }
