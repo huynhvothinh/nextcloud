@@ -21,6 +21,7 @@ OC.L10N.register(
     "Application is not enabled" : "Ứng dụng không được BẬT",
     "Authentication error" : "Lỗi xác thực",
     "Token expired. Please reload page." : "Mã Token đã hết hạn. Hãy tải lại trang.",
-    "Additional settings" : "Cài đặt bổ sung"
+    "Additional settings" : "Cài đặt bổ sung",
+    "Basic settings" : "Cài đặt cơ bản"
 },
 "nplurals=1; plural=0;");
