@@ -15,13 +15,13 @@
  * You should have received a copy of the GNU Affero General Public License, version 3,
  * along with this program.  If not, see <http://www.gnu.org/licenses/>
  */
- @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+ @import url('https://fonts.googleapis.com/css?family=Roboto');
 
  html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, 
  abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, 
  form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, 
  dialog, figure, footer, header, hgroup, nav, section{
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Roboto', sans-serif;
  }
 
 /* header color */
@@ -83,6 +83,17 @@ button.primary:focus,
 	background-color: #745bca;
 }
 
+
+/* ============================================
+ * lamweb.vn6.vn 
+ * ============================================*/
+#app-navigation{
+	background-color: #f2f2f2;
+}
+#header{
+	background-color: #1f1f1f;
+	font-size: 14px;
+}
 /* use logos from theme */
 #header .logo {
 	background-image: url('../img/logo.svg');
@@ -93,8 +104,6 @@ button.primary:focus,
 	width: 62px;
 	height: 34px;
 }
-
-/* lamweb.vn6.vn */
-#app-navigation{
-	background-color: #f2f2f2;
+table th, table th a{
+	font-size: 14px;
 }
