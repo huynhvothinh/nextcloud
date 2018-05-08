@@ -93,3 +93,8 @@ button.primary:focus,
 	width: 62px;
 	height: 34px;
 }
+
+/* lamweb.vn6.vn */
+#app-navigation{
+	background-color: #f2f2f2;
+}
