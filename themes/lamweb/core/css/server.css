@@ -94,6 +94,9 @@ button.primary:focus,
 	background-color: #1f1f1f;
 	font-size: 14px;
 }
+#body-login #header{
+	background-color: transparent;
+}
 /* use logos from theme */
 #header .logo {
 	background-image: url('../img/logo.svg');

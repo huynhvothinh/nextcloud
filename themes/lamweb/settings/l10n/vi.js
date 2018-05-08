@@ -427,4 +427,10 @@ OC.L10N.register(
     "Create": "Tạo",
     "Group name": "Tên nhóm "
 }   ,
+"nplurals=1; plural=0;");á thể này, hãy định cấu hình cài đặt \"trusted_domains\" trong config / config.php. Một cấu hình ví dụ được cung cấp trong config / config.sample.php. ",
+    "Depending on your configuration, as an administrator you might also be able to use the button below to trust this domain.": "Tùy thuộc vào cấu hình của bạn, với tư cách là quản trị viên, bạn cũng có thể sử dụng nút bên dưới để tin cậy miền này. ",
+    "For help, see the  <a target=\"_blank\" rel=\"noreferrer\" href=\"%s\">documentation</a>.": "Để được trợ giúp, hãy xem <a target=\"_blank\" rel=\"noreferrer\" href=\"%s\"> tài liệu </a>. ",
+    "Your PHP does not have freetype support. This will result in broken profile pictures and settings interface.": "PHP của bạn không có hỗ trợ freetype. Điều này sẽ dẫn đến hình ảnh và giao diện cài đặt bị hỏng. ",
+    "Back to log in": "Quay lại để đăng nhập "
+}   ,
 "nplurals=1; plural=0;");
