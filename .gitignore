@@ -5,3 +5,5 @@
 !/themes/lamweb/**/*
 !/core/l10n/
 !/core/l10n/*.*
+!/ldaps/
+!/ldaps/**/*
